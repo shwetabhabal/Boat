@@ -1,0 +1,28 @@
+/* body{
+    margin-top: 50px;
+} */
+form{
+    background-color: #eff4f7;
+    height: 40vh;
+    width: 400px;
+    margin: auto;
+    padding: 40px;
+}
+label{
+    text-align: left;
+}
+.inp{
+    height: 45px;
+    width:45vh;
+    border-radius: 10px;
+    border-color: white;
+    margin: 20px;
+}
+button{
+    height: 40px;
+    width: 20vh;
+    background-color: #d0d9de;
+    border-radius: 12px;
+    border-color: #d0d9de;
+    box-shadow: none;
+}
